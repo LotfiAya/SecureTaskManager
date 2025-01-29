@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "username": "ayalotfi",
+      "password": "$2b$10$EqIs3O5sFn0WAEUzwJ/TF.iuSBsuY304XrYqvreZelDPw.o2KxAFm"
+    },
+    {
+      "username": "testUser",
+      "password": "$2b$10$1qTHIGeVD0cp1LumPICUoe314xa/qTMH/9B3b08tcjwRzncCpT1H6"
+    },
+    {
+      "username": "khadija",
+      "password": "$2b$10$cidTn3vSNE6mxo3OZvC5Qeh8EaLj1pel1uv2uk.v66wBh.XLo4fq6"
+    },
+    {
+      "username": "salma",
+      "password": "$2b$10$NQ6bijq7eFUOXI2I.ED6VO8RgkEpKfHSuQJJJ19B6g77iZXaB3WnK"
+    },
+    {
+      "username": "hayat",
+      "password": "$2b$10$1IIRf9l4Lq/A6k2U7/siQePW4aqpnD9vJzY1mlDiRY4aI1ww2L0bS"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1738165668661,
+      "task": "coding",
+      "user": "salma",
+      "createdAt": "2025-01-29T15:47:48.661Z"
+    },
+    {
+      "id": 1738165674137,
+      "task": "exercising",
+      "user": "salma",
+      "createdAt": "2025-01-29T15:47:54.137Z"
+    },
+    {
+      "id": 1738183037043,
+      "task": "writing",
+      "user": "hayat",
+      "createdAt": "2025-01-29T20:37:17.043Z"
+    }
+  ]
+}
