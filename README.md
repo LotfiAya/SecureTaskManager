@@ -1,7 +1,6 @@
 # Secure Task Management System
 
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green)](https://nodejs.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
 
 A secure web application for managing tasks, featuring user authentication, session management, and JSON-based persistence. Built with Node.js and Express.js, this project emphasizes security and simplicity.
 
